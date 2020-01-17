@@ -1,0 +1,119 @@
+/* Hoja de estilo CSS */
+
+body {
+    background-color: rgba(111, 95, 138, 0.082);
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 20px;
+}
+
+.nav {
+    text-align: center;
+    margin: 0;
+    padding: .3rem;
+    background-color: #8d79ae86;
+    letter-spacing: 0.2em;
+    word-spacing: 4em;
+    line-height: 1.5;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-color: #482E74;
+    padding: 10px;
+}
+
+.hnav {
+    transition: background-color .5s;
+}
+
+.hnav:hover {
+    background-color: #D4C86A;
+}
+
+.section {
+    text-align: left;
+}
+
+.sectionh {
+    color: #2e1557;
+    font-size: 30px;
+}
+
+.articleh {
+    color: #482E74;
+    font-size: 25px;
+}
+
+.articlep {
+    color: #684F91;
+    font-size: 20px;
+    text-justify: auto;
+    margin: 30px;
+    padding: 20px
+}
+
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #8D79AE;
+}
+
+h1 {
+    color: #19053a;
+    font-size: 70px;
+    text-align: center;
+}
+
+.lorem1 {
+    color: #8D79AE;
+    text-align: left;
+}
+
+img {
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ccc;
+}
+
+.article {
+    color: #8D79AE;
+    margin: 0;
+    padding: .3rem;
+    background-color: #eee;
+}
+
+#chead {
+    text-align: center;
+}
+
+.footer {
+    margin: 0;
+    padding: .3rem;
+    background-color: rgba(0, 0, 255, 0.137);
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#imgdino {
+    margin: 0 auto;
+    display: block;
+}
+
+header {
+    background-color: #8d79ae46;
+}
+
+input {
+    margin: 10px;
+}
+
+#bForm {
+    font-size: 20px;
+}
