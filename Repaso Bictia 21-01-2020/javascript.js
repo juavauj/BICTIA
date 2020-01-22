@@ -1,4 +1,4 @@
-// alert("Quiubo perro");
+alert("Quiubo perro");
 
 console.log("Hola mi perro");
 
