@@ -6,8 +6,10 @@ function cambiarTitulo(id, otromensaje) {
 
 //Ejercicio 2 - Tablas de multiplicar
 
-function tablaM(tablasMN, numero, numeros) {
-    console.log('Tabla de multiplicar del número ' + numero + ': ' + numeros);
+function tablaM(numero) {
+    for (var i = 1; i <= 10; i++) {
+        console.log(numero * i);
+    }
 }
 
 //Ejercicio 3 - Errores Código
