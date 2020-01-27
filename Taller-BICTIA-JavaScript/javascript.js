@@ -2,6 +2,10 @@
 
 function cambiarTitulo(id, otromensaje) {
     document.getElementById(id).innerHTML = otromensaje;
+
+    var elemento = document.getElementById(id)
+
+    elemento.style.fontSize = "15 px";
 }
 
 //Ejercicio 2 - Tablas de multiplicar
