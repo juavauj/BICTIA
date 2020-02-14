@@ -22,3 +22,9 @@
 
 
 //Reverse
+
+//Pitágoras
+// let catetoA = prompt('Ingrese cateto a: ');
+// let catetoB = prompt('Ingrese cateto b: ');
+// let total = `Hipotenusa: ${Math.sqrt((catetoA**2) - (catetoB**2))}`;
+// console.log(total);
